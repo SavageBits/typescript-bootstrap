@@ -11,4 +11,4 @@ function logIt(msg: string) {
   console.log(msg);
 }
 
-export {logIt as default, logIt}; //can be imported as default or {logIt}
+export { logIt as default, logIt }; //can be imported as default or {logIt}

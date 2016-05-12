@@ -32,10 +32,6 @@ define(["require", "exports", './../core/logSvc', './../core/eventSvc'], functio
             return daysToImplement;
         }
     };
-    var feature2 = {
-        name: 'Newer feature',
-        description: this.name + ' is a feature'
-    };
     var ProductType = (function () {
         function ProductType(description) {
             this.description = description;

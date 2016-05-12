@@ -48,11 +48,6 @@ var feature: IFeature = {
   }
 }
 
-let feature2 = <IFeature>{
-  name: 'Newer feature',
-  description: this.name + ' is a feature'
-}
-
 //var productType = new ProductType('A product');
 class ProductType {
   constructor(public description: string) {}
