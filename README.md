@@ -1,4 +1,4 @@
-# TypeScript boostrap with RequireJS and AMD modules
+# TypeScript bootstrap with RequireJS and AMD modules
 
 ## Getting started
 
